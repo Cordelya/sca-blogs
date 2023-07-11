@@ -1,16 +1,34 @@
 {
   "sites": [
     {
-      "name": "Bill Hunt",
-      "url": "https://billhunt.dev/",
-      "author": "Bill Hunt <hello@billhunt.email>",
-      "rss": "https://billhunt.dev/feed.xml"
+      "name": "Konstantia Kaloethina",
+      "url": "https://kaloethina.com/",
+      "author": "Konstantia",
+      "rss": "https://kaloethina.com/feed/"
     },
     {
-      "name": "Somebody",
-      "url": "https://www.example.com/",
-      "author": "Somebody <somebody@example.com>",
-      "rss": "https://www.example.com/feed.xml"
+      "name": "Yagowe’s Words",
+      "url": "https://caerlaverockroll.com/yagowes-words/",
+      "author": "Yagowe",
+      "rss": "https://caerlaverockroll.com/yagowes-words/feed/"
+    },
+        {
+      "name": "Isabella's Project Diary",
+      "url": "https://isabelladangelo.blogspot.com/",
+      "author": "Isabella",
+      "rss": "https://isabelladangelo.blogspot.com/feeds/posts/default"
+    },
+    {
+      "name": "Quill Tipped Rose",
+      "url": "https://quilltippedrose.wordpress.com/",
+      "author": "Lissa Rose",
+      "rss": "https://quilltippedrose.wordpress.com/feed/"
+    },
+    {
+      "name": "Cordeilla Sharpe",
+      "url": "https://cordeilla-sharpe.info",
+      "author": "Cordeilla Sharpe",
+      "rss": "https://cordeilla-sharpe.info/index.xml"
     }
   ]
 }
