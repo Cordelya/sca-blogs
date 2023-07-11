@@ -104,8 +104,14 @@ module Jekyll
         result['title'] = entry.title
         result['published'] = entry.published
         result['url'] = entry.url
-        result['content'] = entry.content.encode('iso-8859-1', :invalid => :replace, :undef => :replace, :replace => '').encode('utf-8', :invalid => :replace, :undef => :replace, :replace => '')
 
+        # encode content unless the encoder chokes, then set content to ""
+        begin
+          result['content'] = entry.content.encode('iso-8859-1', :invalid => :replace, :undef => :replace, :replace => '').encode('utf-8', :invalid => :replace, :undef => :replace, :replace => '')
+        rescue
+          result['content'] = ""
+        end
+        
         # puts result
         results.push(result)
       end
