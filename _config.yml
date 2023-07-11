@@ -20,14 +20,18 @@
 
 # START: Customize these things!!!
 
-title: My Super-Great Webring
+title: SCA Blogs Webring
 description: >- # this means to ignore newlines until "baseurl:"
-  This is where you tell everyone what your awesome webring is
-  all about.
+  This webring collects blogs by SCA members about SCA-related topics,
+  including research, Arts & Sciences journals, persona blogs, martial
+  arts, and blogs that cover the administrative side of the SCA. This 
+  webring does not include any official recognized SCA websites and 
+  does not represent the SCA or its subsidiaries in any official 
+  capacity.
 
-baseurl: /webring-starter # the subpath of your site, e.g. /blog
-url: https://githubusername.github.io
-repository: githubusername/webring-starter
+baseurl: /sca-blogs # the subpath of your site, e.g. /blog
+url: https://cordelya.github.io
+repository: cordelya/sca-blogs
 
 # END: You *can* customize the stuff below but you don't need to.
 
