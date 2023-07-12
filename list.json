@@ -29,6 +29,12 @@
       "url": "https://cordeilla-sharpe.info/",
       "author": "Cordeilla Sharpe",
       "rss": "https://cordeilla-sharpe.info/index.xml"
+    },
+    {
+      "name": "An Aspiring Luddite",
+      "url": "https://www.aspiringluddite.com/sca/",
+      "author": "Jeff Berry",
+      "rss": "https://www.aspiringluddite.com/sca/SCA.xml"
     }
   ]
 }
