@@ -35,6 +35,12 @@
       "url": "https://www.aspiringluddite.com/sca/",
       "author": "Jeff Berry",
       "rss": "https://www.aspiringluddite.com/sca/SCA.xml"
+    },
+    {
+      "name": "Arte y Vida",
+      "url": "https://theladyesperanza.wordpress.com/",
+      "author": "Esperanza de Cordoba",
+      "rss": "https://theladyesperanza.wordpress.com/feed"
     }
   ]
 }
