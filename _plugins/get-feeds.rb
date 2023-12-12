@@ -98,6 +98,12 @@ module Jekyll
           entry.url =  site['url'].chomp('/') + entry.url
         end
 
+        # TODO remove these prints
+		print entry.url
+		print "\n"
+		print entry.content
+		print "\n"
+
         result = Hash.new
         result['site_name'] = site['name']
         result['site_url'] = site['url']
