@@ -41,6 +41,24 @@
       "url": "https://theladyesperanza.wordpress.com/",
       "author": "Esperanza de Cordoba",
       "rss": "https://theladyesperanza.wordpress.com/feed"
+    },
+    {
+      "name": "The Medieval Tailor",
+      "url": "https://www.medievaltailor.net",
+      "author": "Henric van den Casteele",
+      "rss": "https://www.medievaltailor.net/blog?format=rss"
+    },
+    {
+      "name": "1001 Rabbit Holes",
+      "url": "https://lukaradokovaia.wordpress.com/",
+      "author": "Luka Radokovaia",
+      "rss": "https://lukaradokovaia.wordpress.com/feed"
+    },
+    {
+      "name": "Kazimierz' Korner",
+      "url": "https://kazimierzkorner.wordpress.com",
+      "author": "Kazimierz Dziecielowski",
+      "rss": "https://kazimierzkorner.wordpress.com/feed"
     }
   ]
 }
